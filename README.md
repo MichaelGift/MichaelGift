@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelGift
 - 👀 I’m interested in all thing technology. I am multidiscplinary developer, game designer and a digital storyteller.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me simiyugift@outlook.com.
 
