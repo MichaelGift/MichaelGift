@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelGift
 - 👀 I’m interested in all things technology. I am multidiscplinary developer and a game designer.
-- 🌱 I’m currently learning AI and Mobile Developement specifically Android Dev.
+- 🌱 I’m currently learning Ethical Hacking and Mobile Developement specifically Android Dev.
 - 💞️ I’m looking to collaborate on Android Kotlin Projects.
 - 📫 How to reach me simiyugift@outlook.com.
 
