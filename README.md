@@ -1,4 +1,4 @@
-##Intro
+## Intro
 - 👋 Hi, I’m @MichaelGift
 - 👀 I’m interested in all things technology. I am multidiscplinary developer and a game designer.
 - 🌱 I’m currently learning Ethical Hacking, Mobile Developement specifically Android Dev and Python Programming.
