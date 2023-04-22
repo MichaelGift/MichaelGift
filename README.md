@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Stats
 ![Stalkers](https://komarev.com/ghpvc/?username=michaelgift)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=michaelgift)](https://git.io/streak-stats)
