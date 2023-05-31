@@ -15,7 +15,7 @@
 <hr>
 <h3 id="-github-stats-" align ="center">📊 GitHub Stats:</h3>
 <p align ="center"><img src="https://komarev.com/ghpvc/?username=michaelgift" alt="Stalkers"></p>
-<p align ="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michaelgift&amp;theme=dark&amp;hide_border=true" alt="GitHub Streak"></a></p>
+<!-- <p align ="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michaelgift&amp;theme=dark&amp;hide_border=true" alt="GitHub Streak"></a></p> -->
 <h2 id="-https-github-readme-stats-vercel-app-api-top-langs-username-michaelgift-theme-dark-hide_border-false-include_all_commits-false-count_private-false-layout-compact-" align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgift&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></h2>
 <hr>
 <h3 id="-random-dev-quote" align="center">✍️ Random Dev Quote</h3>
