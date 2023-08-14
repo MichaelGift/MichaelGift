@@ -11,8 +11,8 @@
   <li>📫 How to reach me simiyugift@outlook.com.</li>
 </ul>
 <hr>
-<h3 id="-socials-"align ="center">🌐 Socials:</h3>
-<p align ="center">
+<!-- <h3 id="-socials-"align ="center">🌐 Socials:</h3>
+<p align ="center"> -->
 <!-- <a href="https://linkedin.com/in/smichaelgift"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>  -->
 </p>
 <hr>
