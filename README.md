@@ -10,10 +10,10 @@
   <li>💞️ I’m looking to collaborate on Android Kotlin and Python Projects.</li>
   <li>📫 How to reach me simiyugift@outlook.com.</li>
 </ul>
-<!-- <hr> -->
-<!-- <h3 id="-socials-"align ="center">🌐 Socials:</h3>
-<p align ="center"> -->
-<!-- <a href="https://linkedin.com/in/smichaelgift"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>  -->
+<hr>
+<h3 id="-socials-"align ="center">🌐 Socials:</h3>
+<p align ="center"> 
+<a href="https://linkedin.com/in/smichaelgift"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 </p>
 <hr>
 <h3 id="-tech-stack-" align ="center">💻 Tech Stack:</h3>
