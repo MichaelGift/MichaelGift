@@ -1,4 +1,4 @@
-<!--![Snake animation](https://github.com/MichaelGift/MichaelGift/blob/output/github-contribution-grid-snake.svg)-->
+<!--[Snake animation](https://github.com/MichaelGift/MichaelGift/blob/output/github-contribution-grid-snake.svg)-->
 <h2 id="-intro" align ="center">💫 Intro</h2>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Michael+Gift.;I+am+a+Full+Stack+software+engineer.;Extremely+curious%2C+always+learning." alt="Typing SVG"/>
@@ -12,8 +12,8 @@
 </ul>
 <hr>
 <h3 id="-socials-"align ="center">🌐 Socials:</h3>
-<p align ="center">
-<a href="https://linkedin.com/in/smichaelgift"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> 
+<p align ="center"> 
+<a href="https://linkedin.com/in/smichaelgift"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 </p>
 <hr>
 <h3 id="-tech-stack-" align ="center">💻 Tech Stack:</h3>
