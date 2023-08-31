@@ -1,6 +1,6 @@
 <h2 id="-intro" align ="center">💫 Intro</h2>
 <a href="https://git.io/typing-svg">
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Michael+Gift.;I+am+a+Full+Stack+software+engineer.;Extremely+curious%2C+always+learning." alt="Typing SVG"/> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Michael+Gift.;I+am+a+Full+Stack+software+engineer.;Extremely+curious%2C+always+learning." alt="Typing SVG"/>
 </a>
 <ul>
   <li>👋 Hi, I’m MichaelGift</li>
