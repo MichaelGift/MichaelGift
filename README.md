@@ -5,7 +5,7 @@
 <ul>
   <li>👋 Hi, I’m MichaelGift</li>
   <li>👀 I’m interested in all things tech. I am a passionate developer and game developer.</li>
-  <li>🌱 I’m currently learning Ethical Hacking, Mobile Developement specifically Android Dev and Python Programming.</li>
+  <li>🌱 I’m currently learning UI/UX Design, Mobile Developement specifically iOS Dev and Python Programming.</li>
   <li>💞️ I’m looking to collaborate on Android Kotlin and Python Projects.</li>
   <li>📫 How to reach me simiyugift@outlook.com.</li>
 </ul>
