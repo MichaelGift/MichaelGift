@@ -4,9 +4,9 @@
 </a>
 <ul>
   <li>👋 Hi, I’m MichaelGift</li>
-  <li>👀 I’m interested in all things tech. I am a passionate developer and game developer.</li>
-  <li>🌱 I’m currently learning Machine Learning and Data Analysis.</li>
-  <li>💞️ I’m looking to collaborate on Android Kotlin and Python Projects.</li>
+  <li>👀 I’m interested in 2d Pixel Art</li>
+  <li>🌱 I’m currently learning Game Design</li>
+  <li>💞️ I’m looking to collaborate on Unity Games</li>
   <li>📫 How to reach me simiyugift@outlook.com.</li>
 </ul>
 <hr>
